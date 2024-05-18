@@ -1,0 +1,9 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                               Test Method: 'DataSets.DataSetsTests.EmptyDataset'                                               
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Response status code: "201", status line: "HTTP/1.1 201 Created" @18-05-2024 19:11:16.0413 PM
+[ReportManager] Actual response status code "201" matches the expected one "201". @18-05-2024 19:11:16.0424 PM
+[ReportManager] Request performed; POST | Target Status Code: 201 | Response Time: 4596ms. @18-05-2024 19:11:18.0055 PM
